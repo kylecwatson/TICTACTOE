@@ -1,0 +1,31 @@
+ body {
+   display: inline;
+   background-image: url(https://wallpapercave.com/wp/X49EwD0.jpg);
+ }
+ 
+ .container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: auto;
+    background-color: rgba(255, 2, 2, 0.5);
+
+  }
+
+  td {
+    border: 5px solid wheat
+  }
+
+  #player {
+    padding: 1rem;
+    text-align: center;
+  }
+  
